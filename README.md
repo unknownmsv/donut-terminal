@@ -37,10 +37,8 @@ This installer sets up the **Donut CLI**, **AI integration** (via `ollama` and y
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/donut-terminal.git
+git clone https://github.com/unknownmsv/donut-terminal.git
 cd donut-terminal
 chmod +x ai-setup.sh
 ./ai-setup.sh
 ```
-# donut-terminal
-# donut-terminal
