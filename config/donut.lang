@@ -1,0 +1,8 @@
+donut o {pkg} = apt install {pkg}
+donut or {pkg} = apt remove {pkg}
+donut U = apt update
+donut do = apt upgrade
+donut doU = apt update && apt upgrade -y
+donut clear = clear
+donut reboot = reboot
+donutTTE = vim
