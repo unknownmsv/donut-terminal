@@ -20,7 +20,8 @@ def check_and_install_requirements():
         "curl",
         "python3",
         "git",
-        "pulseaudio"
+        "pulseaudio",
+        "ollama"
     ]
 
     for pkg in packages:
